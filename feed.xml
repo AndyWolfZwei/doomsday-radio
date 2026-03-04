@@ -31,6 +31,17 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>EP004 - Day Five Without Power</title>
+      <description>When the entire city loses power, a socially anxious programmer is forced to step outside and discovers his neighbor has been organizing the whole building. A 55-minute immersive first-person survival story.</description>
+      <enclosure url="https://andywolfzwei.github.io/doomsday-radio/episodes/ep004.mp3" length="19788192" type="audio/mpeg"/>
+      <guid isPermaLink="false">doomsday-radio-ep004</guid>
+      <pubDate>Thu, 05 Mar 2026 01:48:00 +0800</pubDate>
+      <itunes:title>EP004 - Day Five Without Power</itunes:title>
+      <itunes:summary>55-minute immersive survival story about community building during a city-wide blackout.</itunes:summary>
+      <itunes:duration>3298</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP003 - Community Collaboration and Resource Trading</title>
       <description>How to build communities, establish barter systems, and develop trust networks in a post-apocalyptic world. Host Ah-Sheng shares practical tips on team building, trading protocols, and survival economics.</description>
       <enclosure url="https://andywolfzwei.github.io/doomsday-radio/episodes/ep003.mp3" length="6145200" type="audio/mpeg"/>
