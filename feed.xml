@@ -31,6 +31,17 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>EP003 - Community Collaboration and Resource Trading</title>
+      <description>How to build communities, establish barter systems, and develop trust networks in a post-apocalyptic world. Host Ah-Sheng shares practical tips on team building, trading protocols, and survival economics.</description>
+      <enclosure url="https://andywolfzwei.github.io/doomsday-radio/episodes/ep003.mp3" length="6145200" type="audio/mpeg"/>
+      <guid isPermaLink="false">doomsday-radio-ep003</guid>
+      <pubDate>Wed, 05 Mar 2026 00:02:00 +0800</pubDate>
+      <itunes:title>EP003 - Community Collaboration and Resource Trading</itunes:title>
+      <itunes:summary>Building communities, barter systems, and trust in the post-apocalyptic world.</itunes:summary>
+      <itunes:duration>1280</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP001 - Pets in the Apocalypse</title>
       <description>When doomsday comes, are your pets a burden or allies? Dogs guard and warn, cats hunt pests, even rabbits and chickens become food sources. This episode explores the symbiotic survival relationship between humans and animals in the end times.</description>
       <enclosure url="https://andywolfzwei.github.io/doomsday-radio/episodes/ep001.mp3" length="12882476" type="audio/mpeg"/>
