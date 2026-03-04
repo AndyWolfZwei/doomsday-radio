@@ -7,11 +7,11 @@
     <title>Doomsday Radio</title>
     <link>https://andywolfzwei.github.io/doomsday-radio/</link>
     <atom:link href="https://andywolfzwei.github.io/doomsday-radio/feed.xml" rel="self" type="application/rss+xml"/>
-    <description><![CDATA[每日更新的末世生存主题播客。在虚构的末日世界中，为你讲述生存技能、物资储备、心理建设等实用知识。用声音陪伴你度过每一个末世之夜。A daily AI-generated doomsday survival podcast in Chinese.]]></description>
+    <description>A daily AI-generated doomsday survival podcast in Chinese. Exploring survival skills, resource stockpiling, and psychological resilience in a fictional post-apocalyptic world.</description>
     <language>zh-cn</language>
     <copyright>2026 Doomsday Radio</copyright>
     <itunes:author>Doomsday Radio</itunes:author>
-    <itunes:summary><![CDATA[每日更新的末世生存主题播客。在虚构的末日世界中，为你讲述生存技能、物资储备、心理建设等实用知识。]]></itunes:summary>
+    <itunes:summary>A daily AI-generated doomsday survival podcast in Chinese. Exploring survival skills, resource stockpiling, and psychological resilience in a fictional post-apocalyptic world.</itunes:summary>
     <itunes:owner>
       <itunes:name>Andy</itunes:name>
       <itunes:email>zhiwei.zhuang1993@gmail.com</itunes:email>
@@ -31,13 +31,13 @@
     </image>
     <!-- EPISODES_START -->
     <item>
-      <title>EP001</title>
-      <description><![CDATA[当末日来临，你的宠物是累赘还是伙伴？狗能看家护院、预警危险，猫能捕鼠防疫，甚至兔子和鸡都能成为食物来源。本期节目深入探讨末世中人与动物的生存共生关系。]]></description>
+      <title>EP001 - Pets in the Apocalypse</title>
+      <description>When doomsday comes, are your pets a burden or allies? Dogs guard and warn, cats hunt pests, even rabbits and chickens become food sources. This episode explores the symbiotic survival relationship between humans and animals in the end times.</description>
       <enclosure url="https://github.com/AndyWolfZwei/doomsday-radio/releases/download/ep001/ep001.mp3" length="12882476" type="audio/mpeg"/>
       <guid isPermaLink="false">doomsday-radio-ep001</guid>
       <pubDate>Tue, 04 Mar 2026 00:00:00 +0800</pubDate>
-      <itunes:title>EP001</itunes:title>
-      <itunes:summary><![CDATA[当末日来临，你的宠物是累赘还是伙伴？深入探讨末世中人与动物的生存共生关系。]]></itunes:summary>
+      <itunes:title>EP001 - Pets in the Apocalypse</itunes:title>
+      <itunes:summary>When doomsday comes, are your pets a burden or allies? Exploring the symbiotic survival relationship between humans and animals.</itunes:summary>
       <itunes:duration>2147</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
