@@ -4,14 +4,14 @@
   xmlns:podcast="https://podcastindex.org/namespace/1.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>末世生存电台 | Doomsday Radio</title>
+    <title>Doomsday Radio</title>
     <link>https://andywolfzwei.github.io/doomsday-radio/</link>
     <atom:link href="https://andywolfzwei.github.io/doomsday-radio/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>每日更新的末世生存主题播客。在虚构的末日世界中，为你讲述生存技能、物资储备、心理建设等实用知识。用声音陪伴你度过每一个末世之夜。A daily AI-generated doomsday survival podcast in Chinese.</description>
+    <description><![CDATA[每日更新的末世生存主题播客。在虚构的末日世界中，为你讲述生存技能、物资储备、心理建设等实用知识。用声音陪伴你度过每一个末世之夜。A daily AI-generated doomsday survival podcast in Chinese.]]></description>
     <language>zh-cn</language>
-    <copyright>© 2026 Doomsday Radio</copyright>
-    <itunes:author>末世电台</itunes:author>
-    <itunes:summary>每日更新的末世生存主题播客。在虚构的末日世界中，为你讲述生存技能、物资储备、心理建设等实用知识。</itunes:summary>
+    <copyright>2026 Doomsday Radio</copyright>
+    <itunes:author>Doomsday Radio</itunes:author>
+    <itunes:summary><![CDATA[每日更新的末世生存主题播客。在虚构的末日世界中，为你讲述生存技能、物资储备、心理建设等实用知识。]]></itunes:summary>
     <itunes:owner>
       <itunes:name>Andy</itunes:name>
       <itunes:email>zhiwei.zhuang1993@gmail.com</itunes:email>
@@ -26,18 +26,18 @@
     <itunes:image href="https://andywolfzwei.github.io/doomsday-radio/cover.jpg"/>
     <image>
       <url>https://andywolfzwei.github.io/doomsday-radio/cover.jpg</url>
-      <title>末世生存电台 | Doomsday Radio</title>
+      <title>Doomsday Radio</title>
       <link>https://andywolfzwei.github.io/doomsday-radio/</link>
     </image>
     <!-- EPISODES_START -->
     <item>
-      <title>EP001 - 宠物在末世中的角色</title>
-      <description>当末日来临，你的宠物是累赘还是伙伴？狗能看家护院、预警危险，猫能捕鼠防疫，甚至兔子和鸡都能成为食物来源。本期节目深入探讨末世中人与动物的生存共生关系。</description>
+      <title>EP001</title>
+      <description><![CDATA[当末日来临，你的宠物是累赘还是伙伴？狗能看家护院、预警危险，猫能捕鼠防疫，甚至兔子和鸡都能成为食物来源。本期节目深入探讨末世中人与动物的生存共生关系。]]></description>
       <enclosure url="https://github.com/AndyWolfZwei/doomsday-radio/releases/download/ep001/ep001.mp3" length="12882476" type="audio/mpeg"/>
       <guid isPermaLink="false">doomsday-radio-ep001</guid>
       <pubDate>Tue, 04 Mar 2026 00:00:00 +0800</pubDate>
-      <itunes:title>宠物在末世中的角色</itunes:title>
-      <itunes:summary>当末日来临，你的宠物是累赘还是伙伴？深入探讨末世中人与动物的生存共生关系。</itunes:summary>
+      <itunes:title>EP001</itunes:title>
+      <itunes:summary><![CDATA[当末日来临，你的宠物是累赘还是伙伴？深入探讨末世中人与动物的生存共生关系。]]></itunes:summary>
       <itunes:duration>2147</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
