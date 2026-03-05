@@ -4,14 +4,14 @@
   xmlns:podcast="https://podcastindex.org/namespace/1.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Doomsday Radio</title>
+    <title>末世生存电台</title>
     <link>https://andywolfzwei.github.io/doomsday-radio/</link>
     <atom:link href="https://andywolfzwei.github.io/doomsday-radio/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>A daily AI-generated doomsday survival podcast in Chinese. Exploring survival skills, resource stockpiling, and psychological resilience in a fictional post-apocalyptic world.</description>
+    <description>每天一个沉浸式末世故事，陪你入睡。第一人称视角，带你走进停电、断水、丧尸、极寒……当世界崩塌，普通人如何活下去？助眠向，下饭向，每集30-60分钟。</description>
     <language>zh-cn</language>
-    <copyright>2026 Doomsday Radio</copyright>
-    <itunes:author>Doomsday Radio</itunes:author>
-    <itunes:summary>A daily AI-generated doomsday survival podcast in Chinese. Exploring survival skills, resource stockpiling, and psychological resilience in a fictional post-apocalyptic world.</itunes:summary>
+    <copyright>2026 末世生存电台</copyright>
+    <itunes:author>末世生存电台</itunes:author>
+    <itunes:summary>每天一个沉浸式末世故事，陪你入睡。第一人称视角，带你走进停电、断水、丧尸、极寒……当世界崩塌，普通人如何活下去？助眠向，下饭向，每集30-60分钟。</itunes:summary>
     <itunes:owner>
       <itunes:name>Andy</itunes:name>
       <itunes:email>zhiwei.zhuang1993@gmail.com</itunes:email>
@@ -26,40 +26,40 @@
     <itunes:image href="https://andywolfzwei.github.io/doomsday-radio/cover.jpg"/>
     <image>
       <url>https://andywolfzwei.github.io/doomsday-radio/cover.jpg</url>
-      <title>Doomsday Radio</title>
+      <title>末世生存电台</title>
       <link>https://andywolfzwei.github.io/doomsday-radio/</link>
     </image>
     <!-- EPISODES_START -->
     <item>
-      <title>EP004 - Day Five Without Power</title>
-      <description>When the entire city loses power, a socially anxious programmer is forced to step outside and discovers his neighbor has been organizing the whole building. A 55-minute immersive first-person survival story.</description>
+      <title>停电第五天，我把最后一包泡面干吃了</title>
+      <description>全城停电，社恐程序员被迫走出家门。楼下邻居大姐已经把整栋楼组织起来了，而我连对门住的谁都不知道。五十五分钟沉浸式末世故事，助眠向。</description>
       <enclosure url="https://andywolfzwei.github.io/doomsday-radio/episodes/ep004.mp3" length="19788192" type="audio/mpeg"/>
       <guid isPermaLink="false">doomsday-radio-ep004</guid>
       <pubDate>Thu, 05 Mar 2026 01:48:00 +0800</pubDate>
-      <itunes:title>EP004 - Day Five Without Power</itunes:title>
-      <itunes:summary>55-minute immersive survival story about community building during a city-wide blackout.</itunes:summary>
+      <itunes:title>停电第五天，我把最后一包泡面干吃了</itunes:title>
+      <itunes:summary>全城停电，社恐程序员被迫走出家门，发现邻居大姐早把整栋楼组织起来了。五十五分钟沉浸式第一人称末世故事。</itunes:summary>
       <itunes:duration>3298</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>EP003 - Community Collaboration and Resource Trading</title>
-      <description>How to build communities, establish barter systems, and develop trust networks in a post-apocalyptic world. Host Ah-Sheng shares practical tips on team building, trading protocols, and survival economics.</description>
+      <title>末日里我用一箱方便面换了把斧头，亏了吗</title>
+      <description>一个人扛不住的时候怎么办？灾变后第四个月，我终于决定不再单干。从物物交换到社区联防，从被骗到学会识人。末世里最值钱的不是物资，是信任。</description>
       <enclosure url="https://andywolfzwei.github.io/doomsday-radio/episodes/ep003.mp3" length="6145200" type="audio/mpeg"/>
       <guid isPermaLink="false">doomsday-radio-ep003</guid>
       <pubDate>Wed, 05 Mar 2026 00:02:00 +0800</pubDate>
-      <itunes:title>EP003 - Community Collaboration and Resource Trading</itunes:title>
-      <itunes:summary>Building communities, barter systems, and trust in the post-apocalyptic world.</itunes:summary>
+      <itunes:title>末日里我用一箱方便面换了把斧头，亏了吗</itunes:title>
+      <itunes:summary>灾变后第四个月，独狼玩家终于决定搭伙。物物交换、社区联防、被骗与识人——末世里最值钱的不是物资，是信任。</itunes:summary>
       <itunes:duration>1280</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>EP001 - Pets in the Apocalypse</title>
-      <description>When doomsday comes, are your pets a burden or allies? Dogs guard and warn, cats hunt pests, even rabbits and chickens become food sources. This episode explores the symbiotic survival relationship between humans and animals in the end times.</description>
+      <title>丧尸围城第三天，我的猫救了我一命</title>
+      <description>末日来了，你的宠物是累赘还是救命恩人？我家那只黑白花的猫，在丧尸破门前十秒炸了毛。狗能放哨，猫能抓老鼠，甚至兔子和鸡都成了末世硬通货。</description>
       <enclosure url="https://andywolfzwei.github.io/doomsday-radio/episodes/ep001.mp3" length="12882476" type="audio/mpeg"/>
       <guid isPermaLink="false">doomsday-radio-ep001</guid>
       <pubDate>Tue, 04 Mar 2026 00:00:00 +0800</pubDate>
-      <itunes:title>EP001 - Pets in the Apocalypse</itunes:title>
-      <itunes:summary>When doomsday comes, are your pets a burden or allies? Exploring the symbiotic survival relationship between humans and animals.</itunes:summary>
+      <itunes:title>丧尸围城第三天，我的猫救了我一命</itunes:title>
+      <itunes:summary>末日来了，你的宠物是累赘还是救命恩人？狗能放哨，猫能预警，连兔子鸡鸭都成了末世硬通货。三十五分钟助眠故事。</itunes:summary>
       <itunes:duration>2147</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
