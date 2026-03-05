@@ -31,6 +31,17 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>超市关门前，我冲进去抢了三车东西</title>
+      <description>新闻说供应链断了，我妈打电话让我囤货，我以为她小题大做。结果第二天超市全关了，小区停电停水，有人半夜来砸门。我和闺蜜小周靠三车物资撑了一个月。六十分钟沉浸式末世故事，助眠向。</description>
+      <enclosure url="https://andywolfzwei.github.io/doomsday-radio/episodes/ep002.mp3" length="21936528" type="audio/mpeg"/>
+      <guid isPermaLink="false">doomsday-radio-ep002</guid>
+      <pubDate>Wed, 04 Mar 2026 12:00:00 +0800</pubDate>
+      <itunes:title>超市关门前，我冲进去抢了三车东西</itunes:title>
+      <itunes:summary>我妈让我囤货我没当回事，直到超市全关了、停电停水、有人半夜砸门抢东西。和闺蜜靠三车物资撑了一个月的真实记录。</itunes:summary>
+      <itunes:duration>3656</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>停电第五天，我把最后一包泡面干吃了</title>
       <description>全城停电，社恐程序员被迫走出家门。楼下邻居大姐已经把整栋楼组织起来了，而我连对门住的谁都不知道。五十五分钟沉浸式末世故事，助眠向。</description>
       <enclosure url="https://andywolfzwei.github.io/doomsday-radio/episodes/ep004.mp3" length="19788192" type="audio/mpeg"/>
